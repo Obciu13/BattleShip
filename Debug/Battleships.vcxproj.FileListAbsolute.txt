@@ -1,0 +1,2 @@
+C:\Users\pawel\Documents\Visual Studio 2019\Projects\Battleships\Debug\Battleships.exe
+C:\Users\pawel\Documents\Visual Studio 2019\Projects\Battleships\Debug\Battleships.pdb

@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\pawel\Documents\Visual Studio 2019\Projects\Battleships\Main.cpp(14,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Player.cpp
+  Generowanie kodu...
+  Battleships.vcxproj -> C:\Users\pawel\Documents\Visual Studio 2019\Projects\Battleships\Debug\Battleships.exe
