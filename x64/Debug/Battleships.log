@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\pawel\Documents\Visual Studio 2019\Projects\BattleShip\Main.cpp(48,38): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\pawel\Documents\Visual Studio 2019\Projects\BattleShip\Main.cpp(52,34): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\pawel\Documents\Visual Studio 2019\Projects\BattleShip\Main.cpp(63,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\pawel\Documents\Visual Studio 2019\Projects\BattleShip\Main.cpp(56): warning C4715: "get_move”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\pawel\Documents\Visual Studio 2019\Projects\BattleShip\Main.cpp(45): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: move
+  Battleships.vcxproj -> C:\Users\pawel\Documents\Visual Studio 2019\Projects\BattleShip\x64\Debug\Battleships.exe

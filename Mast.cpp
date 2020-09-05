@@ -3,22 +3,42 @@
 Mast::Mast()
 {
 	state = '.';
-	bShip = 0;
+	set_bShip(false);
 }
 
 Mast::Mast(char sign, int size, int direction)
 {
 	if (sign == '.')
 	{
-		bShip = 1;
+		set_bShip(true);
 	}
 	else
 	{
-		bShip = 0;
+		set_bShip(false);
 	}
 	state = sign;
 }
 
 Mast::~Mast()
 {
+}
+
+void Mast::set_state(char character)
+{
+	state = character;
+}
+
+void Mast::set_bShip(bool boolean)
+{
+	bShip = boolean;
+}
+
+char Mast::get_state()
+{
+	return state;
+}
+
+bool Mast::get_bShip()
+{
+	return bShip;
 }

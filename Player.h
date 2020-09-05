@@ -14,6 +14,12 @@ public:
 	int Check(int x, int y, int size, int direction);
 	void Shoot(int x, int y);
 	int Report();
+
+	void set_bShowShips(bool show);
+	bool get_bShowShips();
+
+
+private:
 	bool bShowShips = false;
 
 };
